@@ -1,0 +1,8 @@
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\flashTest\flashTest\bin\Debug\flashTest.exe
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\flashTest\flashTest\bin\Debug\flashTest.pdb
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\flashTest\flashTest\obj\Debug\ResolveAssemblyReference.cache
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\flashTest\flashTest\obj\Debug\flashTest.Form1.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\flashTest\flashTest\obj\Debug\flashTest.Properties.Resources.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\flashTest\flashTest\obj\Debug\flashTest.csproj.GenerateResource.Cache
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\flashTest\flashTest\obj\Debug\flashTest.exe
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\flashTest\flashTest\obj\Debug\flashTest.pdb

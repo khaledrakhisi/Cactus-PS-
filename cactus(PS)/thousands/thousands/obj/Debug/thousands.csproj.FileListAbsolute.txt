@@ -1,0 +1,9 @@
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\thousands\thousands\obj\Debug\ResolveAssemblyReference.cache
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\thousands\thousands\obj\Debug\thousands.Form1.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\thousands\thousands\obj\Debug\thousands.Properties.Resources.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\thousands\thousands\obj\Debug\thousands.csproj.GenerateResource.Cache
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\thousands\thousands\bin\Debug\thousands.exe
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\thousands\thousands\bin\Debug\thousands.pdb
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\thousands\thousands\bin\Debug\Persia.dll
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\thousands\thousands\obj\Debug\thousands.exe
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\thousands\thousands\obj\Debug\thousands.pdb

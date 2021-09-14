@@ -1,0 +1,292 @@
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\bin\Debug\cactus(PS).exe
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\bin\Debug\cactus(PS).pdb
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\ResolveAssemblyReference.cache
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.Properties.Resources.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus(PS).csproj.GenerateResource.Cache
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus(PS).exe
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus(PS).pdb
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\bin\Debug\cactus(PS).exe.config
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_Master.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_projects.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_getString.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_persons.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_findRecords.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_manageCheques.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_manageAccounts.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_manageSpentDefs.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_printPension.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_financialActions.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_info.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_InfoAddOrModify.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\bin\Debug\Interop.SQLDMO.dll
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\Interop.SQLDMO.dll
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus(PS).csproj.ResolveComReference.cache
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_backup.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_preference.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_receipt.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_splash.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\bin\Debug\en\cactus(PS).resources.dll
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.en.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\en\cactus(PS).resources.dll
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_printAccDoc.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_issuseAccDoc.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreAccDocs.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_buyInvoices.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_addInvoiceItems.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_books.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_manageAccDocs.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_editAccDocEvent.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_balance.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_free.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_taraznameh.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\bin\Debug\PSDb.mdf
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\bin\Debug\PSDb_log.ldf
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_help.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_projectsSmallLedger.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_remains.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreDetails.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_setPassword.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_logOn.resources
+D:\Develop\CSProject\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_bankManager.resources
+D:\nasery\cactus(PS)\cactus(PS)\bin\Debug\cactus(PS).exe.config
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\Interop.SQLDMO.dll
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus(PS).csproj.ResolveComReference.cache
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus(PS).exe
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus(PS).pdb
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\ResolveAssemblyReference.cache
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_bankManager.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_logOn.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_setPassword.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreDetails.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_help.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_remains.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_taraznameh.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_balance.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_editAccDocEvent.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_projectsSmallLedger.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_addInvoiceItems.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_books.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_buyInvoices.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreAccDocs.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_issuseAccDoc.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_printAccDoc.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_splash.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_backup.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_financialActions.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_findRecords.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_getString.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_Master.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_info.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_InfoAddOrModify.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_manageAccounts.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_manageSpentDefs.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_persons.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_preference.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_projects.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_receipt.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_manageCheques.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.Properties.Resources.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.en.resources
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\cactus(PS).csproj.GenerateResource.Cache
+D:\nasery\cactus(PS)\cactus(PS)\bin\Debug\PSDb.mdf
+D:\nasery\cactus(PS)\cactus(PS)\bin\Debug\PSDb_log.ldf
+D:\nasery\cactus(PS)\cactus(PS)\bin\Debug\cactus(PS).exe
+D:\nasery\cactus(PS)\cactus(PS)\bin\Debug\cactus(PS).pdb
+D:\nasery\cactus(PS)\cactus(PS)\bin\Debug\en\cactus(PS).resources.dll
+D:\nasery\cactus(PS)\cactus(PS)\bin\Debug\Interop.SQLDMO.dll
+D:\nasery\cactus(PS)\cactus(PS)\obj\Debug\en\cactus(PS).resources.dll
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\bin\Debug\cactus(PS).exe.config
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus(PS).csproj.ResolveComReference.cache
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus(PS).exe
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus(PS).pdb
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\bin\Debug\PSDb.mdf
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\bin\Debug\PSDb_log.ldf
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\bin\Debug\cactus(PS).exe
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\bin\Debug\cactus(PS).pdb
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\bin\Debug\en\cactus(PS).resources.dll
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\ResolveAssemblyReference.cache
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_bankManager.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_logOn.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_setPassword.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreDetails.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_help.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_remains.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_taraznameh.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_balance.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_editAccDocEvent.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_projectsSmallLedger.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_addInvoiceItems.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_books.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_buyInvoices.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreAccDocs.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_issuseAccDoc.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_printAccDoc.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_splash.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_backup.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_financialActions.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_findRecords.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_getString.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_Master.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_info.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_InfoAddOrModify.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_manageAccounts.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_manageSpentDefs.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_persons.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_preference.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_projects.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_receipt.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_manageCheques.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.Properties.Resources.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.en.resources
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus(PS).csproj.GenerateResource.Cache
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\en\cactus(PS).resources.dll
+G:\Setup\Need\cactus(PS) Khaled\cactus(PS)\obj\Debug\Interop.SQLDMO.dll
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\bin\Debug\cactus(PS).exe.config
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\Interop.SQLDMO.dll
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus(PS).csproj.ResolveComReference.cache
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus(PS).exe
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus(PS).pdb
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\bin\Debug\PSDb.mdf
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\bin\Debug\PSDb_log.ldf
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\bin\Debug\cactus(PS).exe
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\bin\Debug\cactus(PS).pdb
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\bin\Debug\en\cactus(PS).resources.dll
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\bin\Debug\Interop.SQLDMO.dll
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\ResolveAssemblyReference.cache
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_bankManager.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_logOn.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_setPassword.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreDetails.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_help.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_remains.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_taraznameh.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_balance.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_editAccDocEvent.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_projectsSmallLedger.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_addInvoiceItems.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_books.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_buyInvoices.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreAccDocs.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_issuseAccDoc.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_printAccDoc.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_splash.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_backup.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_financialActions.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_findRecords.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_getString.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_Master.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_info.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_InfoAddOrModify.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_manageAccounts.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_manageSpentDefs.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_persons.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_preference.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_projects.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_receipt.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_manageCheques.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.Properties.Resources.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.en.resources
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\cactus(PS).csproj.GenerateResource.Cache
+D:\develop\csharp\cactus(PS) Khaled\cactus(PS)\obj\Debug\en\cactus(PS).resources.dll
+G:\cactus\cactus(PS)\bin\Debug\cactus(PS).exe.config
+G:\cactus\cactus(PS)\obj\Debug\Interop.SQLDMO.dll
+G:\cactus\cactus(PS)\obj\Debug\cactus(PS).csproj.ResolveComReference.cache
+G:\cactus\cactus(PS)\obj\Debug\cactus(PS).exe
+G:\cactus\cactus(PS)\obj\Debug\cactus(PS).pdb
+G:\cactus\cactus(PS)\bin\Debug\PSDb.mdf
+G:\cactus\cactus(PS)\bin\Debug\PSDb_log.ldf
+G:\cactus\cactus(PS)\bin\Debug\cactus(PS).exe
+G:\cactus\cactus(PS)\bin\Debug\cactus(PS).pdb
+G:\cactus\cactus(PS)\bin\Debug\en\cactus(PS).resources.dll
+G:\cactus\cactus(PS)\bin\Debug\Interop.SQLDMO.dll
+G:\cactus\cactus(PS)\obj\Debug\ResolveAssemblyReference.cache
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_bankManager.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_logOn.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_setPassword.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreDetails.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_help.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_remains.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_taraznameh.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_balance.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_editAccDocEvent.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_projectsSmallLedger.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_addInvoiceItems.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_books.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_buyInvoices.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreAccDocs.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_issuseAccDoc.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_printAccDoc.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_splash.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_backup.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_financialActions.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_findRecords.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_getString.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_Master.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_info.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_InfoAddOrModify.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_manageAccounts.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_manageSpentDefs.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_persons.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_preference.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_projects.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_receipt.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_manageCheques.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.Properties.Resources.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.en.resources
+G:\cactus\cactus(PS)\obj\Debug\cactus(PS).csproj.GenerateResource.Cache
+G:\cactus\cactus(PS)\obj\Debug\en\cactus(PS).resources.dll
+D:\develop\csharp\cactus\cactus(PS)\bin\Debug\cactus(PS).exe.config
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\Interop.SQLDMO.dll
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus(PS).csproj.ResolveComReference.cache
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus(PS).pdb
+D:\develop\csharp\cactus\cactus(PS)\bin\Debug\PSDb.mdf
+D:\develop\csharp\cactus\cactus(PS)\bin\Debug\PSDb_log.ldf
+D:\develop\csharp\cactus\cactus(PS)\bin\Debug\cactus(PS).exe
+D:\develop\csharp\cactus\cactus(PS)\bin\Debug\cactus(PS).pdb
+D:\develop\csharp\cactus\cactus(PS)\bin\Debug\en\cactus(PS).resources.dll
+D:\develop\csharp\cactus\cactus(PS)\bin\Debug\Interop.SQLDMO.dll
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\ResolveAssemblyReference.cache
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_bankManager.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_logOn.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_setPassword.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreDetails.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_help.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_remains.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_taraznameh.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_balance.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_editAccDocEvent.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_projectsSmallLedger.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_addInvoiceItems.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_books.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_buyInvoices.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_exploreAccDocs.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_issuseAccDoc.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_printAccDoc.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_splash.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_backup.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_financialActions.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_findRecords.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_getString.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_Master.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_info.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_InfoAddOrModify.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_manageAccounts.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_manageSpentDefs.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_persons.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_preference.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_projects.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_receipt.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_manageCheques.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.Properties.Resources.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus_PS_.frm_pensionsForm.en.resources
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus(PS).csproj.GenerateResource.Cache
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\en\cactus(PS).resources.dll
+D:\develop\csharp\cactus\cactus(PS)\obj\Debug\cactus(PS).exe
+D:\Develop\Csharp\cactus\cactus(PS)\obj\Debug\cactus(PS).csprojAssemblyReference.cache
+D:\Develop\Csharp\cactus\cactus(PS)\obj\Debug\cactus(PS).csproj.CoreCompileInputs.cache
