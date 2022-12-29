@@ -17,8 +17,8 @@ The app has following specifications:
 ## Tech Stack
 
 <div align="center">
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/csharp.svg" alt="Csharp" width="64px" height="64px"></a>
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="64px" height="64px"></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C-sharp" width="64px" height="64px"></a>
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/crystal.svg" alt="Crystal" width="64px" height="64px"></a>
 <a href="https://sass-lang.com/" title="SASS"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="SASS" width="64px" height="64px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="64px" height="64px"></a>
 <a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="64px" height="64px"></a>
