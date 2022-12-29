@@ -19,7 +19,7 @@ The app has following specifications:
 <div align="center">
 <a href="https://code.visualstudio.com/docs/languages/csharp" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C-sharp" width="64px" height="64px"></a>
 <a href="https://www.sap.com/products/technology-platform/crystal-reports.html" title="Crystal Reports"><img src="https://github.com/get-icon/geticon/raw/master/icons/crystal.svg" alt="Crystal" width="64px" height="64px"></a>
-<a href="https://sql-server.com/" title="SQL SERVER"><img src="https://github.com/get-icon/geticon/raw/master/icons/sqlserver.svg" alt="SASS" width="64px" height="64px"></a>
+<a href="https://sql-server.com/" title="SQL SERVER"><img src="https://github.com/get-icon/geticon/raw/master/icons/sqlite.svg" alt="SASS" width="64px" height="64px"></a>
 <a href="https://visualstudio.com/" title="Visual Studio"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio.svg" alt="Visual Studio" width="64px" height="64px"></a>
 </div>
 
