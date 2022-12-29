@@ -19,13 +19,8 @@ The app has following specifications:
 <div align="center">
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C-sharp" width="64px" height="64px"></a>
 <a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/crystal.svg" alt="Crystal" width="64px" height="64px"></a>
-<a href="https://sass-lang.com/" title="SASS"><img src="https://github.com/get-icon/geticon/raw/master/icons/sass.svg" alt="SASS" width="64px" height="64px"></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="64px" height="64px"></a>
-<a href="https://yarnpkg.com/" title="Yarn"><img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg" alt="Yarn" width="64px" height="64px"></a>
-<a href="https://eslint.org/" title="ESLint"><img src="https://github.com/get-icon/geticon/raw/master/icons/eslint.svg" alt="ESLint" width="64px" height="64px"></a>
-<a href="https://prettier.io/" title="Prettier"><img src="https://github.com/get-icon/geticon/raw/master/icons/prettier.svg" alt="Prettier" width="64px" height="64px"></a>
-<a href="https://testing-library.com/docs/react-testing-library/intro/" title="React-Testing-Library"><img src="https://raw.githubusercontent.com/testing-library/react-testing-library/main/other/goat.png" alt="React-Testing-Library" width="64px" height="64px"></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="64px" height="64px"></a>
+<a href="https://sqlserver.com/" title="SQL SERVER"><img src="https://github.com/get-icon/geticon/raw/master/icons/sqlserver.svg" alt="SASS" width="64px" height="64px"></a>
+<a href="https://visualstudio.com/" title="Visual Studio"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio.svg" alt="Visual Studio" width="64px" height="64px"></a>
 </div>
 
 ## wireframes
